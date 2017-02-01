@@ -1,2 +1,2 @@
 # hello-world
-I have no idea what I'm doing
+I have no idea what I'm doing. Yet.
